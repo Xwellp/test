@@ -1,0 +1,16 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu May 19 06:35:06 EDT 2022
+http\://repo.md-5.net/content/groups/public/.lastUpdated=1652956505739
+https\://jitpack.io/.error=
+https\://hub.spigotmc.org/nexus/content/groups/public/.error=
+https\://repo.minebench.de/.lastUpdated=1652956506255
+http\://repo.md-5.net/content/groups/public/.error=
+https\://repo.minebench.de/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1652956506357
+https\://repo.maven.apache.org/maven2/.error=
+http\://maven.sk89q.com/repo/.lastUpdated=1652956505785
+https\://jitpack.io/.lastUpdated=1652956505820
+https\://hub.spigotmc.org/nexus/content/groups/public/.lastUpdated=1652956505695
+https\://minevolt.net/repo/.error=
+https\://minevolt.net/repo/.lastUpdated=1652956505825
+http\://maven.sk89q.com/repo/.error=
